@@ -1,4 +1,2 @@
-.env
-.env.*
 env.js
-data/.json
+data/*.json
